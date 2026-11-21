@@ -1,0 +1,7 @@
+RealWaste subset used by this project.
+
+Classes kept: Food Organics, Glass, Metal, Paper, Plastic.
+Source: https://github.com/sam-single/realwaste
+License: CC BY-NC-SA 4.0
+
+Cite: Sam Single, Saeid Iranmanesh, and Raad Raad. RealWaste: A Novel Real-Life Data Set for Landfill Waste Classification Using Deep Learning. Information, 14(12), 633, 2023. https://doi.org/10.3390/info14120633
